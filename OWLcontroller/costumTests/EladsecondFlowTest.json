@@ -1,0 +1,15 @@
+
+{
+		"operationsList":
+			[
+				{
+				"name" : "runDM",
+				"params" : ["\\DMScript\\PS3_Entry_Exit_PwrCycle.srt"]
+			}
+			]
+
+}
+
+
+
+

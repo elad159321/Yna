@@ -1,0 +1,10 @@
+2021-02-08 11:14:31    hermes - power on ready 2 reboot Has started
+2021-02-08 11:14:31    Power on with clicker has started
+2021-02-08 11:14:31    Activate Clicker
+2021-02-08 11:14:31    Pinging Host until it's On
+2021-02-08 11:14:53    waitForPcToTurnOn - PC is OFF atempt 0
+2021-02-08 11:15:14    waitForPcToTurnOn - PC is OFF atempt 1
+2021-02-08 11:15:35    waitForPcToTurnOn - PC is OFF atempt 2
+2021-02-08 11:15:56    waitForPcToTurnOn - PC is OFF atempt 3
+2021-02-08 11:16:11    waitForPcToTurnOn - PC is ON
+2021-02-08 11:16:11    Host Pc is On

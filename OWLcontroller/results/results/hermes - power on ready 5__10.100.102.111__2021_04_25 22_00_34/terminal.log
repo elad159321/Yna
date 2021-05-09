@@ -1,0 +1,6 @@
+2021-04-25 22:00:34    hermes - power on ready 5 Has started
+2021-04-25 22:00:34    shutdown command has started
+2021-04-25 22:00:34    create Communication
+2021-04-25 22:00:55    shutdown could not being made as socket creating has failed
+2021-04-25 22:00:55    shutdown op failed
+2021-04-25 22:00:55    hermes - power on ready 5 Has Failed

@@ -1,0 +1,75 @@
+2021-02-08 13:45:12    hermes - power on ready 2 reboot Has started
+2021-02-08 13:45:12    shutdown command has started
+2021-02-08 13:45:12    create Communication
+2021-02-08 13:45:31    Awaiting for 240seconds
+2021-02-08 13:49:31    waitForPcToTurnOff - PC is OFF
+2021-02-08 13:49:31    shutdown command has ended successfully
+2021-02-08 13:49:31    Power on with clicker has started
+2021-02-08 13:49:31    Activate Clicker
+2021-02-08 13:49:32    Pinging Host until it's On
+2021-02-08 13:49:53    waitForPcToTurnOn - PC is OFF atempt 0
+2021-02-08 13:50:14    waitForPcToTurnOn - PC is OFF atempt 1
+2021-02-08 13:50:35    waitForPcToTurnOn - PC is OFF atempt 2
+2021-02-08 13:50:56    waitForPcToTurnOn - PC is OFF atempt 3
+2021-02-08 13:51:03    waitForPcToTurnOn - PC is ON
+2021-02-08 13:51:03    Host Pc is On
+2021-02-08 13:51:03    power On With Clicker done successfully
+2021-02-08 13:51:03    Power on with clicker has ended
+2021-02-08 13:51:03    shutdown command has started
+2021-02-08 13:51:03    create Communication
+2021-02-08 13:51:21    Awaiting for 240seconds
+2021-02-08 13:55:21    waitForPcToTurnOff - PC is OFF
+2021-02-08 13:55:21    shutdown command has ended successfully
+2021-02-08 13:55:21    Power on with clicker has started
+2021-02-08 13:55:21    Activate Clicker
+2021-02-08 13:55:22    Pinging Host until it's On
+2021-02-08 13:55:43    waitForPcToTurnOn - PC is OFF atempt 0
+2021-02-08 13:56:04    waitForPcToTurnOn - PC is OFF atempt 1
+2021-02-08 13:56:25    waitForPcToTurnOn - PC is OFF atempt 2
+2021-02-08 13:56:46    waitForPcToTurnOn - PC is OFF atempt 3
+2021-02-08 13:56:49    waitForPcToTurnOn - PC is ON
+2021-02-08 13:56:49    Host Pc is On
+2021-02-08 13:56:49    power On With Clicker done successfully
+2021-02-08 13:56:49    Power on with clicker has ended
+2021-02-08 13:56:49    sleep command has started
+2021-02-08 13:56:49    create Communication
+2021-02-08 13:57:08    Awaiting for 240seconds
+2021-02-08 14:01:08    waitForPcToTurnOff - PC is OFF
+2021-02-08 14:01:08    sleep command has ended
+2021-02-08 14:01:08    Power on with clicker has started
+2021-02-08 14:01:08    Activate Clicker
+2021-02-08 14:01:09    Pinging Host until it's On
+2021-02-08 14:01:30    waitForPcToTurnOn - PC is OFF atempt 0
+2021-02-08 14:01:45    waitForPcToTurnOn - PC is ON
+2021-02-08 14:01:45    Host Pc is On
+2021-02-08 14:01:45    power On With Clicker done successfully
+2021-02-08 14:01:45    Power on with clicker has ended
+2021-02-08 14:01:45    number of seconds to wait is 5
+2021-02-08 14:01:50    number of seconds to wait is 5
+2021-02-08 14:01:50    run Command Via Cmd started
+2021-02-08 14:01:50    create Communication
+2021-02-08 14:01:55    run command via cmd has done with the following data: 
+ 
+Windows IP Configuration
+
+
+Ethernet adapter ??Ethernet:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::6d82:ea67:18c4:4cdb%11
+   IPv4 Address. . . . . . . . . . . : 10.100.102.25
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 10.100.102.1
+
+Tunnel adapter isatap.{9512D39F-79D0-4C44-9C49-71F4BD344CA0}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Tunnel adapter Teredo Tunneling Pseudo-Interface:
+
+   Connection-specific DNS Suffix  . : 
+   IPv6 Address. . . . . . . . . . . : 2001:0:2851:782c:2890:1259:9245:b153
+   Link-local IPv6 Address . . . . . : fe80::2890:1259:9245:b153%8
+   Default Gateway . . . . . . . . . : ::
+2021-02-08 14:01:55    hermes - power on ready 2 reboot Has Passed

@@ -1,0 +1,37 @@
+2021-02-09 09:01:18    hermes - power on ready 2 reboot Has started
+2021-02-09 09:01:18    shutdown command has started
+2021-02-09 09:01:18    create Communication
+2021-02-09 09:01:37    Awaiting for 240seconds
+2021-02-09 09:05:37    waitForPcToTurnOff - PC is OFF
+2021-02-09 09:05:37    shutdown command has ended successfully
+2021-02-09 09:05:37    Power on with clicker has started
+2021-02-09 09:05:37    Activate Clicker
+2021-02-09 09:05:37    Pinging Host until it's On
+2021-02-09 09:05:58    waitForPcToTurnOn - PC is OFF atempt 0
+2021-02-09 09:06:19    waitForPcToTurnOn - PC is OFF atempt 1
+2021-02-09 09:06:40    waitForPcToTurnOn - PC is OFF atempt 2
+2021-02-09 09:07:02    waitForPcToTurnOn - PC is OFF atempt 3
+2021-02-09 09:07:23    waitForPcToTurnOn - PC is OFF atempt 4
+2021-02-09 09:07:38    waitForPcToTurnOn - PC is ON
+2021-02-09 09:07:38    Host Pc is On
+2021-02-09 09:07:38    power On With Clicker done successfully
+2021-02-09 09:07:38    Power on with clicker has ended
+2021-02-09 09:07:38    shutdown command has started
+2021-02-09 09:07:38    create Communication
+2021-02-09 09:07:56    Awaiting for 240seconds
+2021-02-09 09:11:56    waitForPcToTurnOff - PC is OFF
+2021-02-09 09:11:56    shutdown command has ended successfully
+2021-02-09 09:11:56    Power on with clicker has started
+2021-02-09 09:11:56    Activate Clicker
+2021-02-09 09:11:57    Pinging Host until it's On
+2021-02-09 09:12:18    waitForPcToTurnOn - PC is OFF atempt 0
+2021-02-09 09:12:39    waitForPcToTurnOn - PC is OFF atempt 1
+2021-02-09 09:13:00    waitForPcToTurnOn - PC is OFF atempt 2
+2021-02-09 09:13:21    waitForPcToTurnOn - PC is OFF atempt 3
+2021-02-09 09:13:28    waitForPcToTurnOn - PC is ON
+2021-02-09 09:13:28    Host Pc is On
+2021-02-09 09:13:28    power On With Clicker done successfully
+2021-02-09 09:13:28    Power on with clicker has ended
+2021-02-09 09:13:28    sleep command has started
+2021-02-09 09:13:28    create Communication
+2021-02-09 09:13:47    Awaiting for 240seconds

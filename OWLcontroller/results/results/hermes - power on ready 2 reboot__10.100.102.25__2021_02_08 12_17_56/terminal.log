@@ -1,0 +1,46 @@
+2021-02-08 12:17:56    hermes - power on ready 2 reboot Has started
+2021-02-08 12:17:56    shutdown command has started
+2021-02-08 12:17:56    create Communication
+2021-02-08 12:18:15    Awaiting for 240seconds
+2021-02-08 12:22:15    waitForPcToTurnOff - PC is OFF
+2021-02-08 12:22:15    shutdown command has ended successfully
+2021-02-08 12:22:15    Power on with clicker has started
+2021-02-08 12:22:15    Activate Clicker
+2021-02-08 12:22:16    Pinging Host until it's On
+2021-02-08 12:22:37    waitForPcToTurnOn - PC is OFF atempt 0
+2021-02-08 12:22:58    waitForPcToTurnOn - PC is OFF atempt 1
+2021-02-08 12:23:19    waitForPcToTurnOn - PC is OFF atempt 2
+2021-02-08 12:23:40    waitForPcToTurnOn - PC is OFF atempt 3
+2021-02-08 12:23:41    waitForPcToTurnOn - PC is ON
+2021-02-08 12:23:41    Host Pc is On
+2021-02-08 12:23:41    power On With Clicker done successfully
+2021-02-08 12:23:41    Power on with clicker has ended
+2021-02-08 12:23:41    shutdown command has started
+2021-02-08 12:23:41    create Communication
+2021-02-08 12:24:00    Awaiting for 240seconds
+2021-02-08 12:28:00    waitForPcToTurnOff - PC is OFF
+2021-02-08 12:28:00    shutdown command has ended successfully
+2021-02-08 12:28:00    Power on with clicker has started
+2021-02-08 12:28:00    Activate Clicker
+2021-02-08 12:28:01    Pinging Host until it's On
+2021-02-08 12:28:22    waitForPcToTurnOn - PC is OFF atempt 0
+2021-02-08 12:28:43    waitForPcToTurnOn - PC is OFF atempt 1
+2021-02-08 12:29:04    waitForPcToTurnOn - PC is OFF atempt 2
+2021-02-08 12:29:19    waitForPcToTurnOn - PC is ON
+2021-02-08 12:29:19    Host Pc is On
+2021-02-08 12:29:19    power On With Clicker done successfully
+2021-02-08 12:29:19    Power on with clicker has ended
+2021-02-08 12:29:19    sleep command has started
+2021-02-08 12:29:19    create Communication
+2021-02-08 12:29:37    Awaiting for 240seconds
+2021-02-08 12:33:37    waitForPcToTurnOff - PC is OFF
+2021-02-08 12:33:37    sleep command has ended
+2021-02-08 12:33:37    Power on with clicker has started
+2021-02-08 12:33:37    Activate Clicker
+2021-02-08 12:33:38    Pinging Host until it's On
+2021-02-08 12:33:59    waitForPcToTurnOn - PC is OFF atempt 0
+2021-02-08 12:34:20    waitForPcToTurnOn - PC is OFF atempt 1
+2021-02-08 12:34:20    waitForPcToTurnOn - PC is ON
+2021-02-08 12:34:20    Host Pc is On
+2021-02-08 12:34:20    power On With Clicker done successfully
+2021-02-08 12:34:20    Power on with clicker has ended

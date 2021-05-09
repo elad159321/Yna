@@ -1,0 +1,9 @@
+2021-05-09 08:53:29    hermes - power on ready 2 reboot Has started
+2021-05-09 08:53:29    shutdown command has started
+2021-05-09 08:53:29    create Communication
+2021-05-09 08:53:36    waitForPcToTurnOff - PC is ON atempt 0
+2021-05-09 08:53:55    Awaiting for 10seconds
+2021-05-09 08:54:05    waitForPcToTurnOff - PC is OFF
+2021-05-09 08:54:05    shutdown command has ended successfully
+2021-05-09 08:54:05    Power on with clicker has started
+2021-05-09 08:54:05    Activate Clicker

@@ -1,0 +1,42 @@
+2021-05-09 11:08:47    hermes - power on ready 2 reboot Has started
+2021-05-09 11:08:47    shutdown command has started
+2021-05-09 11:08:47    create Communication
+2021-05-09 11:08:54    waitForPcToTurnOff - PC is ON atempt 0
+2021-05-09 11:09:13    Awaiting for 10seconds
+2021-05-09 11:09:23    waitForPcToTurnOff - PC is OFF
+2021-05-09 11:09:23    shutdown command has ended successfully
+2021-05-09 11:09:23    Power on with clicker has started
+2021-05-09 11:09:23    Activate Clicker
+2021-05-09 11:09:24    Pinging Host until it's On
+2021-05-09 11:09:45    waitForPcToTurnOn - PC is OFF atempt 0
+2021-05-09 11:10:00    waitForPcToTurnOn - PC is OFF atempt 1
+2021-05-09 11:10:02    waitForPcToTurnOn - PC is OFF atempt 2
+2021-05-09 11:10:04    waitForPcToTurnOn - PC is OFF atempt 3
+2021-05-09 11:10:06    waitForPcToTurnOn - PC is OFF atempt 4
+2021-05-09 11:10:08    waitForPcToTurnOn - PC is OFF atempt 5
+2021-05-09 11:10:10    waitForPcToTurnOn - PC is OFF atempt 6
+2021-05-09 11:10:12    waitForPcToTurnOn - PC is OFF atempt 7
+2021-05-09 11:10:14    waitForPcToTurnOn - PC is OFF atempt 8
+2021-05-09 11:10:16    waitForPcToTurnOn - PC is OFF atempt 9
+2021-05-09 11:10:17    waitForPcToTurnOn - PC is ON
+2021-05-09 11:10:17    Host Pc is On
+2021-05-09 11:10:17    power On With Clicker done successfully
+2021-05-09 11:10:17    Power on with clicker has ended
+2021-05-09 11:10:17    shutdown command has started
+2021-05-09 11:10:17    create Communication
+2021-05-09 11:10:24    waitForPcToTurnOff - PC is ON atempt 0
+2021-05-09 11:10:43    Awaiting for 10seconds
+2021-05-09 11:10:53    waitForPcToTurnOff - PC is OFF
+2021-05-09 11:10:53    shutdown command has ended successfully
+2021-05-09 11:10:53    Power on with clicker has started
+2021-05-09 11:10:53    Activate Clicker
+2021-05-09 11:10:53    Pinging Host until it's On
+2021-05-09 11:11:14    waitForPcToTurnOn - PC is OFF atempt 0
+2021-05-09 11:11:35    waitForPcToTurnOn - PC is OFF atempt 1
+2021-05-09 11:11:56    waitForPcToTurnOn - PC is OFF atempt 2
+2021-05-09 11:12:17    waitForPcToTurnOn - PC is OFF atempt 3
+2021-05-09 11:12:38    waitForPcToTurnOn - PC is OFF atempt 4
+2021-05-09 11:12:59    waitForPcToTurnOn - PC is OFF atempt 5
+2021-05-09 11:13:20    waitForPcToTurnOn - PC is OFF atempt 6
+2021-05-09 11:13:41    waitForPcToTurnOn - PC is OFF atempt 7
+2021-05-09 11:14:02    waitForPcToTurnOn - PC is OFF atempt 8

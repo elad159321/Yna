@@ -1,0 +1,28 @@
+2021-02-09 09:16:24    hermes - power on ready drive master Has started
+2021-02-09 09:16:24    Run Dm command has started
+2021-02-09 09:16:24    create Communication
+2021-02-09 09:16:50    message from server:
+
+***  DriveMaster Enterprise (NVME+DRV) (x64) Version 7.1  ***
+*******  Date: Tue, Feb 09, 2021   Time: 10:20:44 AM  *******
+*************************************************************
+WDC(N),Bus=4 Dev=0 Func=0,VID=15B7 DID=5007
+===========================================================
+DEVICE NAME: WDC PC SN530 SDBPTPZ-256G-1006 19320E640734 AO088C2P 1.4.0
+===========================================================
+ L1PMSubCTRL1 register is 908h
+ LTR_Latency_REG register is 1BCh
+Set Shutdown Notification (1)
+Shutdown Completion Time=96994 us
+00000000 POWEROFF
+00000001 POWERON
+00000002 NVM_FMT_NVM
+( CMD DW0 DW1 DW10-DW15 : FFFF0080 00000001 00000200 00000000 00000000 00000000 00000000 00000000 )
+( CQ Entry DW0 - DW3    : 00000000 00000000 00000000 00000000 )
+ Current Max no-snoop/snoop latency register value: 00000000 
+ Change Max no-snoop/snoop latency register to max value
+ New Max no-snoop/snoop latency register value: 03FF03FF 
+00000003 NVM_IDFY_CTRLR
+( CMD DW0 DW1 DW10-DW15 : FFFF0006 00000000 00000001
+2021-02-09 09:16:50    Run Dm command has ended
+2021-02-09 09:16:50    hermes - power on ready drive master Has Passed

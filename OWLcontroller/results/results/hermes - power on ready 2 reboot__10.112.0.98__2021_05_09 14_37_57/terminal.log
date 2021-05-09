@@ -1,0 +1,91 @@
+2021-05-09 14:37:57    hermes - power on ready 2 reboot Has started
+2021-05-09 14:37:57    shutdown command has started
+2021-05-09 14:37:57    create Communication
+2021-05-09 14:38:05    waitForPcToTurnOff - PC is ON atempt 0
+2021-05-09 14:38:24    Awaiting for 10seconds
+2021-05-09 14:38:34    waitForPcToTurnOff - PC is OFF
+2021-05-09 14:38:34    shutdown command has ended successfully
+2021-05-09 14:38:34    Power on with clicker has started
+2021-05-09 14:38:34    Activate Clicker
+2021-05-09 14:38:35    Pinging Host until it's On
+2021-05-09 14:38:56    waitForPcToTurnOn - PC is OFF atempt 0
+2021-05-09 14:39:11    waitForPcToTurnOn - PC is OFF atempt 1
+2021-05-09 14:39:13    waitForPcToTurnOn - PC is OFF atempt 2
+2021-05-09 14:39:15    waitForPcToTurnOn - PC is OFF atempt 3
+2021-05-09 14:39:17    waitForPcToTurnOn - PC is OFF atempt 4
+2021-05-09 14:39:25    waitForPcToTurnOn - PC is OFF atempt 5
+2021-05-09 14:39:27    waitForPcToTurnOn - PC is OFF atempt 6
+2021-05-09 14:39:28    waitForPcToTurnOn - PC is ON
+2021-05-09 14:39:28    Host Pc is On
+2021-05-09 14:39:28    power On With Clicker done successfully
+2021-05-09 14:39:28    Power on with clicker has ended
+2021-05-09 14:39:28    shutdown command has started
+2021-05-09 14:39:28    create Communication
+2021-05-09 14:39:35    waitForPcToTurnOff - PC is ON atempt 0
+2021-05-09 14:39:54    Awaiting for 10seconds
+2021-05-09 14:40:04    waitForPcToTurnOff - PC is OFF
+2021-05-09 14:40:04    shutdown command has ended successfully
+2021-05-09 14:40:04    Power on with clicker has started
+2021-05-09 14:40:04    Activate Clicker
+2021-05-09 14:40:05    Pinging Host until it's On
+2021-05-09 14:40:26    waitForPcToTurnOn - PC is OFF atempt 0
+2021-05-09 14:40:41    waitForPcToTurnOn - PC is OFF atempt 1
+2021-05-09 14:40:43    waitForPcToTurnOn - PC is OFF atempt 2
+2021-05-09 14:40:45    waitForPcToTurnOn - PC is OFF atempt 3
+2021-05-09 14:40:47    waitForPcToTurnOn - PC is OFF atempt 4
+2021-05-09 14:40:49    waitForPcToTurnOn - PC is OFF atempt 5
+2021-05-09 14:40:51    waitForPcToTurnOn - PC is OFF atempt 6
+2021-05-09 14:40:53    waitForPcToTurnOn - PC is OFF atempt 7
+2021-05-09 14:40:55    waitForPcToTurnOn - PC is OFF atempt 8
+2021-05-09 14:40:57    waitForPcToTurnOn - PC is OFF atempt 9
+2021-05-09 14:40:58    waitForPcToTurnOn - PC is ON
+2021-05-09 14:40:58    Host Pc is On
+2021-05-09 14:40:58    power On With Clicker done successfully
+2021-05-09 14:40:58    Power on with clicker has ended
+2021-05-09 14:40:58    sleep command has started
+2021-05-09 14:40:58    create Communication
+2021-05-09 14:41:02    waitForPcToTurnOff - PC is ON atempt 0
+2021-05-09 14:41:05    waitForPcToTurnOff - PC is ON atempt 1
+2021-05-09 14:41:16    waitForPcToTurnOff - PC is ON atempt 2
+2021-05-09 14:41:35    Awaiting for 10seconds
+2021-05-09 14:41:45    waitForPcToTurnOff - PC is OFF
+2021-05-09 14:41:45    sleep command has ended
+2021-05-09 14:41:45    Power on with clicker has started
+2021-05-09 14:41:45    Activate Clicker
+2021-05-09 14:41:46    Pinging Host until it's On
+2021-05-09 14:42:01    waitForPcToTurnOn - PC is ON
+2021-05-09 14:42:01    Host Pc is On
+2021-05-09 14:42:01    power On With Clicker done successfully
+2021-05-09 14:42:01    Power on with clicker has ended
+2021-05-09 14:42:01    number of seconds to wait is 5
+2021-05-09 14:42:06    number of seconds to wait is 5
+2021-05-09 14:42:06    Run Command Via Cmd started
+2021-05-09 14:42:06    create Communication
+2021-05-09 14:42:11    run command via cmd has done with the following data: 
+ 
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : sdcorp.global.sandisk.com
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : wdc.com
+   Link-local IPv6 Address . . . . . : fe80::5e1:8eae:6a78:4179%3
+   IPv4 Address. . . . . . . . . . . : 10.112.0.98
+   Subnet Mask . . . . . . . . . . . : 255.255.240.0
+   Default Gateway . . . . . . . . . : 10.112.0.1
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+2021-05-09 14:42:11    hermes - power on ready 2 reboot Has Passed

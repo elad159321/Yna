@@ -1,0 +1,6 @@
+2021-02-09 09:09:01    hermes - power on ready 2 reboot Has started
+2021-02-09 09:09:01    shutdown command has started
+2021-02-09 09:09:01    create Communication
+2021-02-09 09:09:22    shutdown could not being made as socket creating has failed
+2021-02-09 09:09:22    shutdown op failed
+2021-02-09 09:09:22    hermes - power on ready 2 reboot Has Failed

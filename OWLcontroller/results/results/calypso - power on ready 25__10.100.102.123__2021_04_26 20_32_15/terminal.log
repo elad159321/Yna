@@ -1,0 +1,6 @@
+2021-04-26 20:32:15    calypso - power on ready 25 Has started
+2021-04-26 20:32:15    shutdown command has started
+2021-04-26 20:32:15    create Communication
+2021-04-26 20:32:36    shutdown could not being made as socket creating has failed
+2021-04-26 20:32:36    shutdown op failed
+2021-04-26 20:32:36    calypso - power on ready 25 Has Failed
